@@ -66,4 +66,4 @@ Now update your `Program.cs` to utilize your Potluck and Dish classes and suppor
 
 **Tip** you can use `Console.WriteLine();` to create a blank line in your console!
 
-![Iteration 4](./Iteration4.png)
+![Iteration 4](./Potluck/Iteration4.png)
