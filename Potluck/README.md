@@ -15,9 +15,9 @@ Create a `Dish` class that responds to the following interaction pattern and add
 
 ```c#
 
-Dish dish = new Dish("Couscous Salad", "Appetizer");
+Dish dish = new Dish("Couscous Salad", "appetizer");
 Console.WriteLine(dish.Name); // Output: Couscous Salad
-Console.WriteLine(dish.Category); // Output: Appetizer
+Console.WriteLine(dish.Category); // Output: appetizer
 ```
 
 ## Iteration 2
@@ -25,8 +25,8 @@ Console.WriteLine(dish.Category); // Output: Appetizer
 Create a `Potluck` class that responds to the following interaction pattern and add tests for you `Potluck` class:
 
 ```c#
-Dish couscous_salad = new Dish("Couscous Salad", "Appetizer");
-Dish cocktail_meatballs = new Dish("Cocktail Meatballs", "Entree");
+Dish couscous_salad = new Dish("Couscous Salad", "appetizer");
+Dish cocktail_meatballs = new Dish("Cocktail Meatballs", "entree");
 
 Potluck potluck = new Potluck("7-13-18");
 potluck.AddDish(couscous_salad);
