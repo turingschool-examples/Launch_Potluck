@@ -6,6 +6,7 @@
 * Clone your forked repo to your computer.
 * Set up your test project, the [Unit Testing 1 lesson](https://launch.turing.edu/module1/lessons/Week4/UnitTestingI) is a great resource for this!
 * Complete the activity below.
+    * Commit your work after each iteration.
 * Push your solution to your forked repo
 * Send a link of what you worked on to your instructors
 
